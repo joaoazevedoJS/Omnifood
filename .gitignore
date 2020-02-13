@@ -1,0 +1,11 @@
+# Textos
+script.txt
+text.txt
+texto.txt
+
+# Arquivos Php não utilizados
+*.php
+
+# Pastas Não utilizadas no projeto
+
+/Flexbox
